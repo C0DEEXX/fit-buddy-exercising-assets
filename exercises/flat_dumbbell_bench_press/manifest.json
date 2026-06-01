@@ -1,0 +1,22 @@
+{
+  "exercise": "Flat Dumbbell Bench Press",
+  "duration_seconds": 3,
+  "image_size_px": [
+    1024,
+    768
+  ],
+  "frames": {
+    "first_frame": "flat_dumbbell_bench_press_first_frame.png",
+    "second_frame": "flat_dumbbell_bench_press_second_frame.png",
+    "last_frame": "flat_dumbbell_bench_press_last_frame.png"
+  },
+  "gif": "flat_dumbbell_bench_press_3_seconds.gif",
+  "preview": "flat_dumbbell_bench_press_preview.png",
+  "gif_sequence": [
+    "first",
+    "second",
+    "last",
+    "second",
+    "first"
+  ]
+}
