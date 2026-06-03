@@ -92,16 +92,6 @@ The **FitBuddy logo** is a trademark of the FitBuddy graduation project.
 |------------|-------------|
 | [fit-buddy (Frontend)](https://github.com/Mohammed-Hussein0/fit-buddy) | Main FitBuddy React Native app |
 
----
-
-## 👨‍💻 Author
-
-**Mohammad Alkhatib  
-Student ID: 153624  
-Bachelor of Software Engineering  
-Jordan University of Science and Technology  
-
-Supervised by **Dr. Mohammad Al Radaidah**
 
 ---
 
