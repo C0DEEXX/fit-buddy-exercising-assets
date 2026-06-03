@@ -44,7 +44,7 @@ Fit-Buddy-Assets/
 
 | Folder | Description | Status |
 |--------|-------------|--------|
-| 🎞️ **Exercises-GIFS** | Animated exercise demonstration GIFs with muscle highlighting and FitBuddy branding | ✅ In Progress |
+| 🎞️ **Exercises-GIFS** | Animated exercise demonstration with FitBuddy branding | ✅ In Progress |
 | 🖼️ **Logo** | FitBuddy app logo in various formats | ✅ Done |
 | 📱 **mockups** | Mid-fidelity UI mockups of the FitBuddy app screens | ✅ Done |
 
@@ -52,7 +52,7 @@ Fit-Buddy-Assets/
 
 ## 🎨 Asset Specifications
 
-- **Exercise GIFs:** Animated 3D anatomical illustrations with muscle highlighting, branded with FitBuddy logo
+- **Exercise GIFs:** Animated 3D illustrations and branded with FitBuddy logo
 - **Logo:** High resolution PNG, transparent background
 - **Mockups:** Mid-fidelity screen designs covering core app flows
 
@@ -96,7 +96,7 @@ The **FitBuddy logo** is a trademark of the FitBuddy graduation project.
 
 ## 👨‍💻 Author
 
-**Mohammad Awni Abdelrahim Alkhatib**  
+**Mohammad Alkhatib  
 Student ID: 153624  
 Bachelor of Software Engineering  
 Jordan University of Science and Technology  
@@ -107,6 +107,6 @@ Supervised by **Dr. Mohammad Al Radaidah**
 
 <div align="center">
 
-*FitBuddy — Train. Track. Transform.*
+*FitBuddy — Solving the "Data Amnesia" in Fitness Tracking*
 
 </div>
